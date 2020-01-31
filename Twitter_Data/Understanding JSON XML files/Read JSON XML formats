@@ -1,0 +1,12 @@
+Understand JSON , XML files format is really important 
+to Analyse the semi structured data.
+There are plenty of formats called Semi Structured data 
+
+Some of the popular ones are:
+    XML
+    JSON
+    Parquet
+    AVRO
+    ORC
+    
+In this folder we look into XML and JSON files only
